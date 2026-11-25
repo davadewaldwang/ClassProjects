@@ -3,6 +3,8 @@
 *.DS_Store
 ._*
 *.dSYM/
+*.exe
+main
 
 # in APCode3
 # unfinished or written by mr mckeen
